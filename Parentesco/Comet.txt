@@ -1,0 +1,14 @@
+12
+   1    0    0     Barker's bull 
+   2    0    0     Haughton
+   3    0    0     Dalton Duke
+   4    0    0     Alcock's bull
+   5    1    2     Foljambe
+   6    4    0     Favorite (cow)
+   7    3    6     Young Strawberry
+   8    5    7     Bolingbroke
+   9    5    6     Phoenix
+  10    9    8     Favorite
+  11   10    9     Young Phoenix
+  12   10   11     Comet
+  
