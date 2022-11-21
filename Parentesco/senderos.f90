@@ -10,7 +10,7 @@ integer long_senderos(1000000)
 integer nsenderos, valido, nvalidos(100)
 
 open(15,file='senderos.txt')
-open(5,file='setter.txt')
+open(5,file='Setter.txt')
 read(5,*)n
 do i = 1, n
   read(5,'(i4,i5,i5,5x,a15)')j,padre(i),madre(i),nombre(i)
