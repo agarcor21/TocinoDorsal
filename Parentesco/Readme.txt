@@ -8,4 +8,9 @@ Carlos_II.txt
 Setter.txt
 Comet.txt
 
+Método de los Senderos
+----------------------
 
+senderos.f90   - calcula los senderos válidos y los escribe en senderos.txt
+
+OJO! no incluye los senderos de descendencia directa  
