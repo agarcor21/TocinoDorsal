@@ -19,4 +19,10 @@ Método tabular
 --------------
 
 tabular.f90    - calcula las relaciones genéticas aditivas y las coancestrías
+
+Método de la función recursiva
+------------------------------
+
+recursiva.f90. - calcula el parentesco de Comet y despues toda la matriz de parentesco
+                 con una llamada para cada pareja
                  
