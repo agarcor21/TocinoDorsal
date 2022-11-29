@@ -1,3 +1,8 @@
+
+Este es el material adicional de la serie de videos sobre el parentesco, todos
+los codigos que se vayan realizando se subirán a este subdirectorio simultáneamente
+a la publicación de cada video
+
 Ficheros de datos
 -----------------
 
