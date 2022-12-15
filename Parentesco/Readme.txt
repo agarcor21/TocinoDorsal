@@ -31,3 +31,11 @@ Método de la función recursiva
 recursiva.f90. - calcula el parentesco de Comet y despues toda la matriz de parentesco
                  con una llamada para cada pareja
                  
+Método de Henderson-Quaas
+-------------------------
+
+quaas.f90 - método tabular, método de Cholesky estándar y factor de cholesky completo usando las fórmulas de H-Q
+
+quaas.f90 - el método de H-Q para obtener solo los autoparentescos
+
+Además, se añade un individuo más a la genealogía de carlos II, como se describió en el video
