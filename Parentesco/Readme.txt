@@ -39,3 +39,8 @@ quaas.f90 - método tabular, método de Cholesky estándar y factor de cholesky 
 quaas.f90 - el método de H-Q para obtener solo los autoparentescos
 
 Además, se añade un individuo más a la genealogía de carlos II, como se describió en el video
+
+Método de Cruden-Jacquard
+-------------------------
+
+Cruden.f90 - Se usa el método de Cruden-Jacquard para analizar la evoción del parentesco medio de una población
